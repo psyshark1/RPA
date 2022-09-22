@@ -1,0 +1,1 @@
+python "\path\to\root\main.py"
